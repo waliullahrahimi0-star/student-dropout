@@ -1,11 +1,3 @@
-# requirements.txt
-# COM 572 Machine Learning Coursework – Task 1
-#
-# All packages listed here have been tested for compatibility with
-# Streamlit Cloud and a standard Python 3.10+ environment.
-# Pinned to minor versions to ensure reproducibility while allowing
-# patch-level security updates.
-
 streamlit>=1.32.0
 scikit-learn>=1.4.0
 pandas>=2.1.0
